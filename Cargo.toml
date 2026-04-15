@@ -1,0 +1,10 @@
+[package]
+name = "rustopia"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+
+[dependencies]
+bevy = "0.12"
+rand = "0.8"
+noise = "0.8"
